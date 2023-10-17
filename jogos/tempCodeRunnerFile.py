@@ -1,2 +1,1 @@
-
-    forca.jogar()
+banhia
